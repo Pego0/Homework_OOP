@@ -47,6 +47,7 @@ public class Main {
         bestHufflepuffr(hufflepuffs);
         bestRavenclaw(ravenclaws);
         hogwarts[0].compareBetween(hogwarts[3]);
+        System.out.println("Attempt");
 
     }
     private static int generate() {
